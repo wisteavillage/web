@@ -10,27 +10,27 @@ function Nav() {
 			</div>
 			<div className="box links">
 				<Link to="/home">
-					<img src="../home.png" />
+					<img src="../web/home.png" />
 					<span>Home</span>
 				</Link>
 				<Link to="/village">
-					<img src="../village.png" />
+					<img src="../web/village.png" />
 					<span>Village</span>
 				</Link>
 				<Link to="/rules">
-					<img src="../rules.png" />
+					<img src="../web/rules.png" />
 					<span>Rules</span>
 				</Link>
 				<Link to="/creation">
-					<img src="../creation.png" />
+					<img src="../web/creation.png" />
 					<span>Creation</span>
 				</Link>
 				<Link to="/events">
-					<img src="../events.png" />
+					<img src="../web/events.png" />
 					<span>Events</span>
 				</Link>
 				<Link to="/residents">
-					<img src="../residents.png" />
+					<img src="../web/residents.png" />
 					<span>Residents</span>
 				</Link>
 			</div>

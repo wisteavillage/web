@@ -25,7 +25,7 @@ function Map() {
                         <div className="post left">
                             <div className="bookmark">Village / <b>MAP</b></div>
                             <p>Although the village is small, the villagers love living here. Outsiders come and go all the time since it is a conveniently located village when people are travelling. Wistea Village still keeps technology up to date, but the villagers rarely have the chance to use them accordingly.</p>
-                            <img src="../Village_map.png" />
+                            <img src="../web/Village_map.png" />
                             <p>Features of the village include:</p>
                             <ul>
                                 <li>Vast number of forests surrounding the village, native trees growing in between houses and buildings.</li>

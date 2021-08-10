@@ -31,7 +31,7 @@ function Jobs() {
                         <div className="row">
                             <div className="col w50 post right">
                                 <div className="jobs">
-                                    <img src="https://static.wixstatic.com/media/907566_963b35030b4f4c6ab302ad37e16800e0~mv2.png/v1/fill/w_173,h_171,al_c,q_85,usm_0.66_1.00_0.01/bakery.webp" />
+                                    <img src="https://image.flaticon.com/icons/png/512/1669/1669110.png" />
                                     <div>
                                         <strong>Bakery</strong>
                                         <p>
@@ -44,7 +44,7 @@ function Jobs() {
                             </div>
                             <div className="col w50 post left">
                                 <div className="jobs">
-                                    <img src="https://static.wixstatic.com/media/907566_963b35030b4f4c6ab302ad37e16800e0~mv2.png/v1/fill/w_173,h_171,al_c,q_85,usm_0.66_1.00_0.01/bakery.webp" />
+                                    <img src="https://static.thenounproject.com/png/2850958-200.png" />
                                     <div>
                                         <strong>Bookstore</strong>
                                         <p>
@@ -58,7 +58,7 @@ function Jobs() {
                         <div className="row">
                             <div className="col w50 post right">
                                 <div className="jobs">
-                                    <img src="https://static.wixstatic.com/media/907566_963b35030b4f4c6ab302ad37e16800e0~mv2.png/v1/fill/w_173,h_171,al_c,q_85,usm_0.66_1.00_0.01/bakery.webp" />
+                                    <img src="https://cdn1.iconfinder.com/data/icons/coffee-shop-24/512/Coffee-24-512.png" />
                                     <div>
                                         <strong>Coffee cafe</strong>
                                         <p>
@@ -70,7 +70,7 @@ function Jobs() {
                             </div>
                             <div className="col w50 post left">
                                 <div className="jobs">
-                                    <img src="https://static.wixstatic.com/media/907566_963b35030b4f4c6ab302ad37e16800e0~mv2.png/v1/fill/w_173,h_171,al_c,q_85,usm_0.66_1.00_0.01/bakery.webp" />
+                                    <img src="https://static.thenounproject.com/png/4224-200.png" />
                                     <div>
                                         <strong>Fishery</strong>
                                         <p>
@@ -84,7 +84,7 @@ function Jobs() {
                         <div className="row">
                             <div className="col w50 post right">
                                 <div className="jobs">
-                                    <img src="https://static.wixstatic.com/media/907566_963b35030b4f4c6ab302ad37e16800e0~mv2.png/v1/fill/w_173,h_171,al_c,q_85,usm_0.66_1.00_0.01/bakery.webp" />
+                                    <img src="https://static.thenounproject.com/png/1148229-200.png" />
                                     <div>
                                         <strong>Flower shop</strong>
                                         <p>
@@ -96,7 +96,7 @@ function Jobs() {
                             </div>
                             <div className="col w50 post left">
                                 <div className="jobs">
-                                    <img src="https://static.wixstatic.com/media/907566_963b35030b4f4c6ab302ad37e16800e0~mv2.png/v1/fill/w_173,h_171,al_c,q_85,usm_0.66_1.00_0.01/bakery.webp" />
+                                    <img src="https://cdn.iconscout.com/icon/free/png-512/hospital-doctor-medicine-emergency-service-healthcare-emoj-symbol-30736.png" />
                                     <div>
                                         <strong>Hospital</strong>
                                         <p>
@@ -113,7 +113,7 @@ function Jobs() {
                         <div className="row">
                             <div className="col w50 post right">
                                 <div className="jobs">
-                                    <img src="https://static.wixstatic.com/media/907566_963b35030b4f4c6ab302ad37e16800e0~mv2.png/v1/fill/w_173,h_171,al_c,q_85,usm_0.66_1.00_0.01/bakery.webp" />
+                                    <img src="https://image.flaticon.com/icons/png/512/1008/1008243.png" />
                                     <div>
                                         <strong>Wistea Mall</strong>
                                         <p>
@@ -125,7 +125,7 @@ function Jobs() {
                             </div>
                             <div className="col w50 post left">
                                 <div className="jobs">
-                                    <img src="https://static.wixstatic.com/media/907566_963b35030b4f4c6ab302ad37e16800e0~mv2.png/v1/fill/w_173,h_171,al_c,q_85,usm_0.66_1.00_0.01/bakery.webp" />
+                                    <img src="https://mpng.subpng.com/20190206/fvz/kisspng-computer-icons-clip-art-portable-network-graphics-student-filled-svg-png-icon-free-download-43269-5c5a7c977a05f0.2330390715494340074998.jpg" />
                                     <div>
                                         <strong>Wistea University</strong>
                                         <p>
@@ -139,7 +139,7 @@ function Jobs() {
                         <div className="row">
                             <div className="col w50 post right">
                                 <div className="jobs">
-                                    <img src="https://static.wixstatic.com/media/907566_963b35030b4f4c6ab302ad37e16800e0~mv2.png/v1/fill/w_173,h_171,al_c,q_85,usm_0.66_1.00_0.01/bakery.webp" />
+                                    <img src="https://icon-library.com/images/pharmacy-icon/pharmacy-icon-10.jpg" />
                                     <div>
                                         <strong>Pharmacy</strong>
                                         <p>
@@ -153,7 +153,7 @@ function Jobs() {
                             </div>
                             <div className="col w50 post left">
                                 <div className="jobs">
-                                    <img src="https://static.wixstatic.com/media/907566_76444b92f6b747edb751e0e4c116a759~mv2.png/v1/fill/w_169,h_167,al_c,q_85,usm_0.66_1.00_0.01/library.webp" />
+                                    <img src="https://cdn.iconscout.com/icon/free/png-256/restaurant-1495593-1267764.png" />
                                     <div>
                                         <strong>Restaurant</strong>
                                         <p>
@@ -168,7 +168,7 @@ function Jobs() {
                         <div className="row">
                             <div className="col w50 post right">
                                 <div className="jobs">
-                                    <img src="https://static.wixstatic.com/media/907566_76444b92f6b747edb751e0e4c116a759~mv2.png/v1/fill/w_169,h_167,al_c,q_85,usm_0.66_1.00_0.01/library.webp" />
+                                    <img src="https://static.thenounproject.com/png/729665-200.png" />
                                     <div>
                                         <strong>Tea house</strong>
                                         <p>

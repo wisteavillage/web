@@ -26,7 +26,7 @@ function Housing() {
                             <div className="bookmark">Village / <b>HOUSING</b></div>
                             <p>As a member of the village, you will get your own house. Each house includes a bath area, dining room and kitchen, a bedroom, and a living room. While the house is free to own, you are responsible for making enough income to pay for your living expenses.</p>
                             <p>This is the only available floor plan for residents. If you want to live with another character, you need to ask consent before we unlock a new community for only 2 people (2 bedrooms).</p>
-                            <img src="../Floor_plan.png"/>
+                            <img src="../web/Floor_plan.png"/>
                             <p>Extra features include:</p>
                             <ul>
                                 <li>Metal gates surrounding the front of the house, brick walled backyard with brown tiles and grass.</li>

@@ -14,20 +14,20 @@ import Residents from './components/Residents'
 
 function App() {
   return (
-    <Router>
+    <Router basname="/web/">
       <Switch>
-        <Route path="/web/" exact component={Index}/>
-        <Route path="/web/home" component={Home}/>
-        <Route path="/web/village" exact component={Village}/>
+        <Route path="/" exact component={Index}/>
+        <Route path="/home" component={Home}/>
+        <Route path="/village" exact component={Village}/>
         {/* nested routes under village */}
-        <Route path="/web/village/map" component={Map}/>
-        <Route path="/web/village/jobs" component={Jobs}/>
-        <Route path="/web/village/housing" component={Housing}/>
-        <Route path="/web/village/commissions" component={Commissions}/>
-        <Route path="/web/rules" component={Rules}/>
-        <Route path="/web/creation" component={Creation}/>
-        <Route path="/web/events" component={Events}/>
-        <Route path="/web/residents" component={Residents}/>
+        <Route path="/village/map" component={Map}/>
+        <Route path="/village/jobs" component={Jobs}/>
+        <Route path="/village/housing" component={Housing}/>
+        <Route path="/village/commissions" component={Commissions}/>
+        <Route path="/rules" component={Rules}/>
+        <Route path="/creation" component={Creation}/>
+        <Route path="/events" component={Events}/>
+        <Route path="/residents" component={Residents}/>
       </Switch>
     </Router>
   );
@@ -36,7 +36,7 @@ function App() {
 const Index = () => (
   <div className="landing">
     <Link to="/home">
-      <img className="img" src="./logo_with_circle.png"/>
+      <img className="img" src="./web/logo_with_circle.png"/>
       <span>Enter Village</span>
     </Link>
   </div>
