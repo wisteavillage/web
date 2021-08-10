@@ -36,9 +36,6 @@ function Home() {
                         <div className="post left">
                             <h2>&bull; About &bull;</h2>
                             <p>The group will be mostly slice-of-life so there won’t be a main story needed. Story (side) events will appear, but most are going to be about outside Wistea Village. A real story (main) event in Wistea Village will happen in the late future, to unlock the mystery behind the village and the tree. In addition, it will be semi-harvest moon based (which is ideal for those who play Rune Factory, and the playstyle should get people to feel that vibe).</p>
-                            <div className="buttons">
-                                <Link to="/village/map">Map</Link>
-                            </div>
                         </div>
                     </div>
                 </div>

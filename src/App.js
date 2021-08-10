@@ -14,7 +14,7 @@ import Residents from './components/Residents'
 
 function App() {
   return (
-    <Router basname="/web/">
+    <Router basename="/web/">
       <Switch>
         <Route path="/" exact component={Index}/>
         <Route path="/home" component={Home}/>
@@ -36,7 +36,7 @@ function App() {
 const Index = () => (
   <div className="landing">
     <Link to="/home">
-      <img className="img" src="./web/logo_with_circle.png"/>
+      <img src="./logo_with_circle.png"/>
       <span>Enter Village</span>
     </Link>
   </div>
